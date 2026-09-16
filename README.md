@@ -53,17 +53,19 @@ Highlights:
 ---
 
 ### 🌎 Travel Management Site
-**MERN Stack | Team Project**
+**React | TypeScript | Node.js | Express | MongoDB | Docker | Railway**
 
-Repository:
-[https://github.com/Bland-Life/Large-Project](https://github.com/Bland-Life/Large-Project)
+**Live Demo:** [Travel Management Site](https://large-project-production.up.railway.app/)  
+**Repository:** [Christian142792/Large-Project](https://github.com/Christian142792/Large-Project)
 
-A full-stack travel planning application built using the MERN stack.
+A full-stack travel planning and tracking platform originally developed as a UCF team project and later independently modernized and deployed.
 
-Highlights:
-- Built responsive frontend components using React for a full-stack travel planning platform
-- Integrated backend APIs to manage user trips, itineraries, and bookings
-- Improved UI/UX through dynamic state management and component-based architecture
+- Built responsive frontend components and integrated backend APIs during the original team project
+- Independently modernized authentication using password hashing and server-side sessions
+- Added persistent trip, flight, packing-list, visited-country, and profile-image storage with MongoDB
+- Dockerized and deployed the application with Railway
+- Improved authenticated user scoping and production configuration
+- Preserved the original “Join Me” social feature as a clearly labeled community prototype
 
 ---
 
