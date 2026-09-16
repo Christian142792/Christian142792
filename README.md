@@ -68,17 +68,19 @@ Highlights:
 ---
 
 ### 📇 Contact Manager App
-**LAMP Stack | Team Project**
+**PHP | MySQL | JavaScript | HTML/CSS | Docker | Railway**
 
-Repository:
-[https://github.com/Bashguy/POOSD-Small-Project](https://github.com/Bashguy/POOSD-Small-Project)
+**Live Demo:** [Contact Manager](https://poosd-small-project-production.up.railway.app/login.html)  
+**Repository:** [Christian142792/POOSD-Small-Project](https://github.com/Christian142792/POOSD-Small-Project)
 
-A full-stack contact management application.
+A full-stack contact management application originally developed as a UCF team project and later independently modernized and deployed.
 
-Features:
-- Developed a full-stack contact management web application with user authentication and CRUD functionality
-- Designed and implemented RESTful APIs and integrated a MySQL database for persistent data storage
-- Collaborated in an Agile team using Git for version control
+- Built user authentication and full contact CRUD functionality with a PHP/MySQL backend
+- Independently modernized authentication using password hashing and server-side sessions
+- Replaced hard-coded credentials with environment-based configuration
+- Improved per-user authorization and database security
+- Dockerized and deployed the application with Railway and a managed MySQL database
+- Originally contributed primarily to frontend development as part of the project team
 
 ---
 
